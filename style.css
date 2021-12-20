@@ -1,0 +1,23 @@
+html, body {
+  margin:0px;
+  height:100%;
+}
+
+.bg-image {
+	background-image: url("https://www.desktopbackground.org/download/1600x900/2013/03/29/552428_spiderman-3-wallpapers-desktop-kemecer-com_1920x1080_h.jpg");
+	filter: blur(8px);
+	height: 100%;  
+	margin: 0px;
+}
+
+.content {
+	position:absolute;
+  	top:0px;
+  	right:0px;
+  	bottom:0px;
+  	left:0px;	
+	filter: none;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
